@@ -8,4 +8,4 @@
 
 4. [Anagram algorithm](https://github.com/marszos/algorithms/blob/bad2582ebd279f5494b0180e15097cc775d87b35/Anagram_algo.py)
 
-5.[Palindrome Permutation (Knuth–Morris–Pratt algorithm)](https://github.com/marszos/algorithms/blob/ccd3516eeca847dfba9df87a5e3bcf2f33c7435b/Palindrome%20Permutation%20(Knuth%E2%80%93Morris%E2%80%93Pratt%20algorithm))
+5.[Palindrome Permutation](https://github.com/marszos/algorithms/blob/ccd3516eeca847dfba9df87a5e3bcf2f33c7435b/Palindrome%20Permutation%20(Knuth%E2%80%93Morris%E2%80%93Pratt%20algorithm))
