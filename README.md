@@ -9,3 +9,4 @@
 7. [Merge sort](https://github.com/marszos/algorithms/blob/92fc9c4cfb91f381c1e88f732f9b8066f09f5e9a/Merge_Sort.py)
 8. [Heapsort algorithm](https://github.com/marszos/algorithms/blob/1a457d8072ed95646b288e7d3d9425c368dcef8e/Heapsort_algorithm.py)
 9. [Bubble Sort](https://github.com/marszos/algorithms/blob/b2f8b0d935a01a3ddfd6915da94297f07ebeb928/Bubble_sort.py)
+10.[Quicksort](https://github.com/marszos/algorithms/blob/6a9fb138991e78d4cc7596e56c81d114803411ac/Quicksort.py)
