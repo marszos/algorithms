@@ -8,3 +8,4 @@
 6. [Clockwise matrix rotation](https://github.com/marszos/algorithms/blob/5ebb230021dee71272075a3ec124969d736e4656/Clockwise_matrix_rotation.py)
 7. [Merge sort](https://github.com/marszos/algorithms/blob/92fc9c4cfb91f381c1e88f732f9b8066f09f5e9a/Merge_Sort.py)
 8. [Heapsort algorithm](https://github.com/marszos/algorithms/blob/1a457d8072ed95646b288e7d3d9425c368dcef8e/Heapsort_algorithm.py)
+9. [Bubble Sort](https://github.com/marszos/algorithms/blob/b2f8b0d935a01a3ddfd6915da94297f07ebeb928/Bubble_sort.py)
