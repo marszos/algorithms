@@ -6,3 +6,4 @@
 4. [Anagram algorithm](https://github.com/marszos/algorithms/blob/bad2582ebd279f5494b0180e15097cc775d87b35/Anagram_algo.py)
 5. [String rotation with kmp algorithm](https://github.com/marszos/algorithms/blob/2415055fa4a8d2980fcd9f21a5c82e4a8d36fdcb/String_rotation_check_using_KMP_algo.py)
 6. [Clockwise matrix rotation](https://github.com/marszos/algorithms/blob/5ebb230021dee71272075a3ec124969d736e4656/Clockwise_matrix_rotation.py)
+7. [Merge sort](https://github.com/marszos/algorithms/blob/92fc9c4cfb91f381c1e88f732f9b8066f09f5e9a/Merge_Sort.py)
