@@ -12,3 +12,4 @@
 10. [Quicksort](https://github.com/marszos/algorithms/blob/6a9fb138991e78d4cc7596e56c81d114803411ac/Quicksort.py)
 11. [Insertion sort](https://github.com/marszos/algorithms/blob/b8e505be6a143d2ee7eae7c436139ad772b29928/Insertion_sort.py)
 12. [Binary search algorithm](https://github.com/marszos/algorithms/blob/06c0b4a3391610c178c31a86f26c4e2c585ce78f/Binary_search_algorithm.py)
+13. [Interpolation search](https://github.com/marszos/algorithms/blob/88f682fe01338c1b7e08e42d30e8d1cd3dea2a8f/Interpolation_search.py)
