@@ -14,3 +14,4 @@
 12. [Binary search algorithm](https://github.com/marszos/algorithms/blob/06c0b4a3391610c178c31a86f26c4e2c585ce78f/Binary_search_algorithm.py)
 13. [Interpolation search](https://github.com/marszos/algorithms/blob/88f682fe01338c1b7e08e42d30e8d1cd3dea2a8f/Interpolation_search.py)
 14. [Palindrome check](https://github.com/marszos/algorithms/blob/79579c96bfd765405e3503867aa8edbde40452bd/isPalindrom.py)
+15. [Linked list using OOP](https://github.com/marszos/algorithms/blob/febc996ed832978504fd1e6383691a4eb40d77dc/Linked_list.py)
