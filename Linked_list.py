@@ -53,8 +53,8 @@ class linkedList:
                 cur_idx += 1
      
     
-    #delete nth element from linked list
-     def erase(self,index):
+  #delete nth element from linked list
+  def erase(self,index):
             cur_node = self.head 
             cur_idx = 0 
         
@@ -66,6 +66,20 @@ class linkedList:
                 return 
             else:
                 cur_idx += 1 
+  
+
+def print_nth_from_last(self, n):
+        if n > self.lenght() or n <= 0:
+            print("ERROR: wrong value of n")
+        total_len = self.lenght()
+        cur_node = self.head 
+        
+        while cur_node.next != None:
+            cur_node = cur_node.next
+            if total_len == n:
+                return cur_node.data 
+            else:
+                total_len -= 1 
 
   lista2 = linkedList()
   lista2.append(1)
