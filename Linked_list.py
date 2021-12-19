@@ -51,7 +51,21 @@ class linkedList:
                 return cur_node.data
             else:
                 cur_idx += 1
-                
+     
+    
+    #delete nth element from linked list
+     def erase(self,index):
+            cur_node = self.head 
+            cur_idx = 0 
+        
+        while True:
+            last_node = cur_node
+            cur_node = cur_node.next 
+            if cur_idx == index: 
+                last_node.next = cur_node.next 
+                return 
+            else:
+                cur_idx += 1 
 
   lista2 = linkedList()
   lista2.append(1)
@@ -60,3 +74,4 @@ class linkedList:
   
   lista2.display()
   lista2.get(0)
+  list1.erase(1)
