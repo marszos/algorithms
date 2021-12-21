@@ -89,3 +89,4 @@ def print_nth_from_last(self, n):
   lista2.display()
   lista2.get(0)
   list1.erase(1)
+  
