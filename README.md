@@ -15,3 +15,4 @@
 13. [Interpolation search](https://github.com/marszos/algorithms/blob/88f682fe01338c1b7e08e42d30e8d1cd3dea2a8f/Interpolation_search.py)
 14. [Palindrome check](https://github.com/marszos/algorithms/blob/79579c96bfd765405e3503867aa8edbde40452bd/isPalindrom.py)
 15. [Linked list using OOP](https://github.com/marszos/algorithms/blob/7e47b5b7d2fa856dca8296b22e27b8c5269813ea/Linked_list.py)
+16. [Linked list using OOP:isPalindrom check](https://github.com/marszos/algorithms/blob/fec1729cffa989589c019268c466253bcef99d5e/Linked_list_isPalindrom.py)
