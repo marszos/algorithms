@@ -17,3 +17,4 @@
 15. [Linked list using OOP](https://github.com/marszos/algorithms/blob/7e47b5b7d2fa856dca8296b22e27b8c5269813ea/Linked_list.py)
 16. [Linked list using OOP : isPalindrom check](https://github.com/marszos/algorithms/blob/fec1729cffa989589c019268c466253bcef99d5e/Linked_list_isPalindrom.py)
 17. [Reverse Linked List](https://github.com/marszos/algorithms/blob/a5541cfb4d12a0fbc62328f0d14580061b5b1918/reverse_linked_list.py)
+18. [Matrix multiplication no np.dot function](https://github.com/marszos/algorithms/blob/04493620789223b6015417788ecfd2690cbf7ca2/matrix_multiplication.py)
