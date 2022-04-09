@@ -20,3 +20,4 @@
 18. [Matrix multiplication no np.dot function](https://github.com/marszos/algorithms/blob/04493620789223b6015417788ecfd2690cbf7ca2/matrix_multiplication.py)
 19. [Transpose Matrix](https://github.com/marszos/algorithms/blob/ab129154a3c429f4275761aad083b0cb32c19dc8/transpose.py)
 20. [3sum_leetcode](https://github.com/marszos/algorithms/blob/f8f54fa5428242679aff42352cb2317027af2f1d/threesum.py)
+21. [Move zeros_leetcode](https://github.com/marszos/algorithms/blob/9687c8faa2c9d3a84b06dcbcbfd9be92a3bbb9f7/move_zeros.py)
