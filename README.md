@@ -21,3 +21,4 @@
 19. [Transpose Matrix](https://github.com/marszos/algorithms/blob/ab129154a3c429f4275761aad083b0cb32c19dc8/transpose.py)
 20. [3sum_leetcode](https://github.com/marszos/algorithms/blob/f8f54fa5428242679aff42352cb2317027af2f1d/threesum.py)
 21. [Move zeros_leetcode](https://github.com/marszos/algorithms/blob/9687c8faa2c9d3a84b06dcbcbfd9be92a3bbb9f7/move_zeros.py)
+22. [Maximum Depth of Binary Tree](https://github.com/marszos/algorithms/blob/47d1fd9b5d1c2dd88cdba4580f7ca7118b3d4fec/Max_Depth_BT.py)
