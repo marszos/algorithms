@@ -23,3 +23,4 @@
 21. [Move zeros_leetcode](https://github.com/marszos/algorithms/blob/9687c8faa2c9d3a84b06dcbcbfd9be92a3bbb9f7/move_zeros.py)
 22. [Maximum Depth of Binary Tree](https://github.com/marszos/algorithms/blob/47d1fd9b5d1c2dd88cdba4580f7ca7118b3d4fec/Max_Depth_BT.py)
 23. [Longest Substring Without Repeating](https://github.com/marszos/algorithms/blob/c7d80391373f765efa59237c3b66320aacbd1ce6/longest_substr.py)
+24. [Longest Palindromic Substring](https://github.com/marszos/algorithms/blob/da1af712303175577bf1291aad8aa5a7991581be/Longest_palin.py)
