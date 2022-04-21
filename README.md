@@ -26,3 +26,4 @@
 24. [Longest Palindromic Substring](https://github.com/marszos/algorithms/blob/da1af712303175577bf1291aad8aa5a7991581be/Longest_palin.py)
 25. [Length of Last Word](https://github.com/marszos/algorithms/blob/aeb4a2ca780e50bfe4ac72ba9d28397775b4b2be/lengthOfLastWord.py)
 26. [Sqrt(x)](https://github.com/marszos/algorithms/blob/bc57932432cc61ae46c9a2e41988f1f83012d023/sqrt.py)
+27. [Two Sum](https://github.com/marszos/algorithms/blob/fc82c18c94f963404d6e52bf609c0b90acf85d2d/two_sums.py)
