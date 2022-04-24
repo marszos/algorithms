@@ -29,3 +29,4 @@
 27. [Two Sum](https://github.com/marszos/algorithms/blob/fc82c18c94f963404d6e52bf609c0b90acf85d2d/two_sums.py)
 28. [Longest Common Prefix](https://github.com/marszos/algorithms/blob/23ed46936abcef2ff73c903fb4a26a44fa58dc4a/Long_Comm_Pre.py)
 29. [Letter Combinations of a Phone Number](https://github.com/marszos/algorithms/blob/3930918f50ad54dd8a2af77bd437e67883737c20/letterCombinations.py)
+30. [Majority Element](https://github.com/marszos/algorithms/blob/d7ff6809bb9f247b99db62079c1386bb710bb310/MajorityElement.py)
