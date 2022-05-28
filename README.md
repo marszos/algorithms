@@ -30,3 +30,4 @@
 28. [Longest Common Prefix](https://github.com/marszos/algorithms/blob/23ed46936abcef2ff73c903fb4a26a44fa58dc4a/Long_Comm_Pre.py)
 29. [Letter Combinations of a Phone Number](https://github.com/marszos/algorithms/blob/3930918f50ad54dd8a2af77bd437e67883737c20/letterCombinations.py)
 30. [Majority Element](https://github.com/marszos/algorithms/blob/d7ff6809bb9f247b99db62079c1386bb710bb310/MajorityElement.py)
+31. [How Many Numbers Are Smaller Than the Current Number](https://github.com/marszos/algorithms/blob/8d4c2e434e5f0de8fd5f4f33935946fb20718531/how_many.py)
