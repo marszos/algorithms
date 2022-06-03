@@ -32,3 +32,4 @@
 30. [Majority Element](https://github.com/marszos/algorithms/blob/d7ff6809bb9f247b99db62079c1386bb710bb310/MajorityElement.py)
 31. [How Many Numbers Are Smaller Than the Current Number](https://github.com/marszos/algorithms/blob/8d4c2e434e5f0de8fd5f4f33935946fb20718531/how_many.py)
 32. [Destination city](https://github.com/marszos/algorithms/blob/2d3c5f868b6832c42faa5940f5a6be89fa0c04c8/destination_city.py)
+33. [Design Browser History](https://github.com/marszos/algorithms/blob/15df019c177064a1d6506c7cae902ebc89e17918/browser_hist.py)
