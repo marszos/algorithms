@@ -34,3 +34,4 @@
 32. [Destination city](https://github.com/marszos/algorithms/blob/2d3c5f868b6832c42faa5940f5a6be89fa0c04c8/destination_city.py)
 33. [Design Browser History](https://github.com/marszos/algorithms/blob/15df019c177064a1d6506c7cae902ebc89e17918/browser_hist.py)
 34. [Maximum Number of Coins You Can Get](https://github.com/marszos/algorithms/blob/e95a6dc89ce79830fb9d5dce6c9a2f0f537746f8/max_coin_num.py)
+35. [ Goal Parser Interpretation](https://github.com/marszos/algorithms/blob/fa9482163d4b76e4dda7280bfc41fe8e335786cd/Goal_Parser_Interpretation.py)
