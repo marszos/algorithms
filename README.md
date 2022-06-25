@@ -36,3 +36,4 @@
 34. [Maximum Number of Coins You Can Get](https://github.com/marszos/algorithms/blob/e95a6dc89ce79830fb9d5dce6c9a2f0f537746f8/max_coin_num.py)
 35. [ Goal Parser Interpretation](https://github.com/marszos/algorithms/blob/fa9482163d4b76e4dda7280bfc41fe8e335786cd/Goal_Parser_Interpretation.py)
 36. [Longest Palindrome](https://github.com/marszos/algorithms/blob/043064242176174e6afe2517328ac2f5f10dafc5/longestPalindrome.py)
+37. [Delete Node in a BST](https://github.com/marszos/algorithms/blob/cfa52abdf7a8ba087bf23851467dcb3f1b440d82/Delete_Node_BST.py)
