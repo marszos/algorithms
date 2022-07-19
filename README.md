@@ -38,4 +38,5 @@
 36. [Longest Palindrome](https://github.com/marszos/algorithms/blob/043064242176174e6afe2517328ac2f5f10dafc5/longestPalindrome.py)
 37. [Delete Node in a BST](https://github.com/marszos/algorithms/blob/cfa52abdf7a8ba087bf23851467dcb3f1b440d82/Delete_Node_BST.py)
 38. [Flatten Binary Tree to Linked List](https://github.com/marszos/algorithms/blob/a59998800b0a606165a83a12e41c7758c33a3593/flatten_binary_tree.py)
+39. [Longest Common Subsequence - Dynamic Programming](https://github.com/marszos/algorithms/blob/b29ef4c42b97bf870c67f01aee09d9cd243e5b21/Longest_Common_Subsequence.py)
 
