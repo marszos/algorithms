@@ -39,4 +39,5 @@
 37. [Delete Node in a BST](https://github.com/marszos/algorithms/blob/cfa52abdf7a8ba087bf23851467dcb3f1b440d82/Delete_Node_BST.py)
 38. [Flatten Binary Tree to Linked List](https://github.com/marszos/algorithms/blob/a59998800b0a606165a83a12e41c7758c33a3593/flatten_binary_tree.py)
 39. [Longest Common Subsequence - Dynamic Programming](https://github.com/marszos/algorithms/blob/b29ef4c42b97bf870c67f01aee09d9cd243e5b21/Longest_Common_Subsequence.py)
+40. [Bit_manipulation_Debugger](https://github.com/marszos/algorithms/blob/daa24bf054b411ef17b5b8fe3551260fb08eb5b0/bit_manipulation.py)
 
